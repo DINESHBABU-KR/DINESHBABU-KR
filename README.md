@@ -15,36 +15,31 @@ My experience spans **EVM-compatible blockchains, Solana development, NFT infras
 - ☁️ **Infrastructure:** IPFS, Infura, AWS S3, CloudFront
 
 ---
-
-## 🚀 Featured Projects
+## 🚀 Selected Project Experience
 
 ### 🔐 Smart Contract Development & Security
-Developing and testing Solidity smart contracts with attention to access control, secure transaction flows, gas efficiency, and reliable contract interactions.
+- Developed and reviewed Solidity smart contracts.
+- Worked with ERC-20, ERC-721 and ERC-1155 standards.
+- Focused on access control, secure transaction flows and gas optimization.
+- Used OpenZeppelin libraries and contract testing.
 
-**Focus areas:** Solidity, OpenZeppelin, ERC standards, testing, smart contract security.
+### 🎮 Blockchain Gaming & Betting Platform
+- Worked on a hybrid blockchain gaming architecture.
+- Integrated Solidity smart contracts with Node.js using ethers.js.
+- Implemented blockchain event listeners and transaction verification.
+- Used MongoDB for game state and transaction synchronization.
 
-🔗 [View Repository](YOUR_SMART_CONTRACT_REPO_URL)
-
-### 🎮 Blockchain Gaming Platform
-A blockchain-integrated gaming architecture that combines backend game state management with on-chain transaction verification and event processing.
-
-**Focus areas:** Solidity, ethers.js, Node.js, MongoDB, blockchain event listeners, transaction verification.
-
-🔗 [View Repository](YOUR_BLOCKCHAIN_GAMING_REPO_URL)
+### ⚡ Arbitrage Bot Development
+- Developed and worked on a production arbitrage bot.
+- Worked with blockchain transaction monitoring and automated execution.
+- Focused on transaction reliability and backend integration.
 
 ### 🏷️ IoT + Blockchain Product Ownership
-A product-authenticity and ownership workflow connecting physical products to blockchain-based digital assets using NFC technology and a React Progressive Web App.
+- Developed a product ownership workflow using NFC technology.
+- Integrated React PWA with blockchain-based digital ownership.
+- Implemented wallet signatures and ownership transfers.
 
-**Focus areas:** React PWA, NFC, ERC-721, wallet signatures, ownership transfers.
-
-🔗 [View Repository](YOUR_IOT_BLOCKCHAIN_REPO_URL)
-
-### ⚡ EVM Event Indexer & Backend Integration
-Exploring reliable blockchain event processing, database synchronization, duplicate-event prevention, and recovery from service interruptions.
-
-**Focus areas:** Node.js, ethers.js, JSON-RPC, MongoDB, event-driven architecture.
-
-🔗 [View Repository](YOUR_EVENT_INDEXER_REPO_URL)
+*Note: Project source code is not publicly available. Descriptions reflect my professional development experience.*
 
 ---
 
