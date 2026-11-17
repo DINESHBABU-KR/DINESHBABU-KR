@@ -128,6 +128,8 @@ A backend engineering portfolio project demonstrating practical backend developm
 - Integrated backend APIs and blockchain data with React frontend components.
 - Worked with multiple EVM-compatible blockchain networks and TRON.
 
+**Repository:** [Token Vesting App](https://github.com/DINESHBABU-KR/Token_vesting_app)
+
 ### 3. Blockchain-Based E-Commerce
 
 **Solidity | Node.js | React.js | Ethereum | Polygon | BSC | TRON**
@@ -175,15 +177,6 @@ A backend engineering portfolio project demonstrating practical backend developm
 - Used Socket.IO for real-time event communication.
 - Integrated Redis Adapter for communication across clustered server instances.
 - Worked with Redis-based background processing and asynchronous jobs.
-
----
-
-## 📊 GitHub Statistics
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DINESHBABU-KR&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
